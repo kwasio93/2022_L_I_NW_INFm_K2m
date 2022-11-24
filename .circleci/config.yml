@@ -24,6 +24,6 @@ workflows: 
 
   basic:  
 
-    jobs  # noqa 501
+    jobs  
 
       - build-and-test 
